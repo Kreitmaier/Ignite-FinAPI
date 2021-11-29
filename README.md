@@ -1,2 +1,2 @@
 # Ignite-FinAPI
-A project to lern about NodeJs with express.
+A project to learn about NodeJs with express.
